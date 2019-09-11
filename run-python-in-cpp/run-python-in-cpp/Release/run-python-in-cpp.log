@@ -1,0 +1,8 @@
+﻿  run-python.cpp
+  Generating code
+  3 of 10 functions (30.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  run-python-in-cpp.vcxproj -> C:\Users\Mustafa Ugur\Desktop\run-python-in-cpp\Release\run-python-in-cpp.exe
+  run-python-in-cpp.vcxproj -> C:\Users\Mustafa Ugur\Desktop\run-python-in-cpp\Release\run-python-in-cpp.pdb (Full PDB)
